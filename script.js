@@ -1,19 +1,19 @@
 const slides = [
   {
     title: "Profil",
-    text: "Nama saya Adi. Siswa SMK kelas 11 RPL."
+    text: "Nama saya Rafaelali Dari Kelas XI AV SAMSUNG."
   },
   {
-    title: "Tujuan PKL",
-    text: "Menambah pengalaman kerja nyata dan skill coding."
+    title: "Asal Sekolah",
+    text: "Saya Berasal Dari SMKN 2 PEKANBARU."
   },
   {
-    title: "Galeri Foto",
-    text: "📷 Foto-foto dokumentasi selama PKL."
+    title: "Tempat Tinggal",
+    text: "Saya beralamat Di Perumahan Putri Tujuh Jln HR.Soebrantas."
   },
   {
-    title: "Kesimpulan",
-    text: "PKL sangat bermanfaat dan menambah ilmu baru!"
+    title: "Tujuan web ini?",
+    text: "Tujuan web ini dibuat yaitu Tugas dari bu nina"
   }
 ];
 
